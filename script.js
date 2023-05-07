@@ -71,9 +71,9 @@ function toggleScreen() {
 }
 
 function handleEnterclick() {
-  if (e.key == "Enter" && screen2.classList.contains("hide")) {
+  if (e.key == "Enter" && screen1.classList.contains("hide")) {
     handleClick()
-  } else if (e.key == "Enter" && screen1.classList.contains("hide")) {
+  } else if (e.key == "Enter" && screen2.classList.contains("hide")) {
     handleClick()
   }
 }
