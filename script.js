@@ -70,7 +70,7 @@ function toggleScreen() {
   screen2.classList.toggle("hide")
 }
 
-function handleEnterclick() {
+function handleclick() {
   if (e.key == "Enter" && screen1.classList.contains("hide")) {
     handleClick()
   } else if (e.key == "Enter" && screen2.classList.contains("hide")) {
