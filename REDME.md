@@ -33,4 +33,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy:
-[Clicque aqui para acessar o Projeto!](https:caetanosbr.github.io/BiscoitoDaSorte/)
+[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/BiscoitoDaSorte/)
